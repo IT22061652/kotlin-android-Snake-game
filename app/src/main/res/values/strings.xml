@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">snake game</string>
+    <string name="Playgame">Star Games</string>
+    <string name="newgame">New Game</string>
+    <string name="resumegame">Resume Game</string>
+    <string name="pausegame">Pause Game</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+
+
+</resources>
